@@ -1,4 +1,4 @@
-# Eero Housing Application (https://eero.ml/)
+# Eero Housing Application
 
 Website Made Using HTML, CSS, PHP, MySQL
 
